@@ -1,16 +1,19 @@
-## Hi there 👋
+## Who is this person?
+This human is a Linux builder (**make** command addict) and software translator
 
-<!--
-**ColtonSilvaonKnoxKontor/ColtonSilvaonKnoxKontor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevScout Badges
+<a href="https://hosted.weblate.org/engage/openwrt/-/fil/">
+<img src="https://hosted.weblate.org/widget/openwrt/luciapplicationsopenvpn/fil/open-graph.png" alt="Translation status" />
+</a>
 
-Here are some ideas to get you started:
+## Achievements
+This human currently contributed on translation projects. You may look at these repository projects for details:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**OpenPS2Loader** | https://github.com/ps2homebrew/Open-PS2-Loader
+
+**OpenWRT's LuCI Interface** | https://github.com/openwrt/luci
+
+## Software built
+This human also tried to built his own Linux from Scratch and remixes. Look at this repository for detail:
+
+**SilSys Development Kit** | https://github.com/ColtonSilvaonKnoxKontor/SilSys-Development-Kit

@@ -3,7 +3,7 @@ This human is a Linux builder (**make** command addict) and software translator
 
 ## DevScout Badges
 <a href="https://hosted.weblate.org/engage/openwrt/-/fil/">
-<img src="https://hosted.weblate.org/widget/openwrt/luciapplicationsopenvpn/fil/open-graph.png" alt="Translation status" />
+<img src="https://hosted.weblate.org/widget/openwrt/-/fil/open-graph.png" alt="Translation status" />
 </a>
 
 ## Achievements

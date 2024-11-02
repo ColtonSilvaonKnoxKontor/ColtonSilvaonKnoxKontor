@@ -31,7 +31,7 @@ This human also installed and tried OS to his system. Here are the lists:
 **_SoC and embedded devices_**
 1. Armbian
 
-**_x86_64_:
+**For x86 and x86_64 based system**:
 
 **_Debian-based_**
 1. Astra Linux

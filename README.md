@@ -77,3 +77,9 @@ This human also installed and tried OS to his system. Here are the lists:
 **_Windows_**
 
 All versions of Windows OS except for Win11
+
+## Progress
+1. This human can read and understand Japanese in JLPT2 level.
+2. This human can do programming in C++
+3. This human can do Blender modeling in basic level
+4. This human can do audio mastering and development in intermediate level

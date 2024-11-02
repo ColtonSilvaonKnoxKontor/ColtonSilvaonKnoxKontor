@@ -25,6 +25,12 @@ This human also installed and tried OS to his system. Here are the lists:
 
 1. BlackRhino OS
 
+**_Routers_**
+1. OpenWRT
+
+**_SoC and embedded devices_**
+1. Armbian
+
 **For x86_64 intel based system** Linux Distributions:
 
 **_Debian-based_**
@@ -67,3 +73,6 @@ This human also installed and tried OS to his system. Here are the lists:
 **_Toys_**
 1. ToaruOS
 2. MichalOS
+
+**_Windows_**
+All versions of Windows OS except for Win11

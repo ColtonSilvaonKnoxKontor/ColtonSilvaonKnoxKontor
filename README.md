@@ -75,4 +75,5 @@ This human also installed and tried OS to his system. Here are the lists:
 2. MichalOS
 
 **_Windows_**
+
 All versions of Windows OS except for Win11

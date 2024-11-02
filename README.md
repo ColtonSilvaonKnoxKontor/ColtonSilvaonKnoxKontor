@@ -21,7 +21,7 @@ This human also tried to built his own Linux from Scratch and remixes. Look at t
 ## Tried Operating System
 This human also installed and tried OS to his system. Here are the lists:
 
-**For PlayStation 2** Linux Distrubution:
+**_PlayStation 2_**:
 
 1. BlackRhino OS
 
@@ -31,7 +31,7 @@ This human also installed and tried OS to his system. Here are the lists:
 **_SoC and embedded devices_**
 1. Armbian
 
-**For x86_64 intel based system** Linux Distributions:
+**_x86_64_:
 
 **_Debian-based_**
 1. Astra Linux

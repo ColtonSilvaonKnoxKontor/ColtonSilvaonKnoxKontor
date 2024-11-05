@@ -8,6 +8,7 @@ This human is a Linux builder (**make** command addict) and software translator 
 
 ## Filipino translation status
 This is an excerpt of chart showing the translation progress of OpenWRT and LuCI interface translated from English into Filipino by me compared to nearby SouthEast Asian languages.
+<br />
 <a href="https://hosted.weblate.org/engage/openwrt/-/en_devel/">
 <img src="https://hosted.weblate.org/widget/openwrt/-/en_devel/multi-auto.svg" alt="Translation status" />
 </a>

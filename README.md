@@ -6,6 +6,24 @@ This human is a Linux builder (**make** command addict) and software translator 
 <img src="https://hosted.weblate.org/widget/openwrt/-/fil/open-graph.png" alt="Translation status" />
 </a>
 
+## Filipino translation status
+This is an excerpt of chart showing the translation progress of OpenWRT and LuCI interface translated from English into Filipino by me compared to nearby SouthEast Asian languages.
+<a href="https://hosted.weblate.org/engage/openwrt/-/en_devel/">
+<img src="https://hosted.weblate.org/widget/openwrt/-/en_devel/multi-auto.svg" alt="Translation status" />
+</a>
+<br />
+<a href="https://hosted.weblate.org/engage/openwrt/-/fil/">
+<img src="https://hosted.weblate.org/widget/openwrt/-/fil/multi-red.svg" alt="Translation status" />
+</a>
+<br />
+<a href="https://hosted.weblate.org/engage/openwrt/-/id/">
+<img src="https://hosted.weblate.org/widget/openwrt/-/id/multi-green.svg" alt="Translation status" />
+</a>
+<br />
+<a href="https://hosted.weblate.org/engage/openwrt/-/ms/">
+<img src="https://hosted.weblate.org/widget/openwrt/-/ms/multi-blue.svg" alt="Translation status" />
+</a>
+
 ## Achievements
 This human currently contributed on translation projects. You may look at these repository projects for details:
 

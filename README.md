@@ -25,6 +25,8 @@ This is an excerpt of chart showing the translation progress of OpenWRT and LuCI
 <img src="https://hosted.weblate.org/widget/openwrt/-/ms/multi-blue.svg" alt="Translation status" />
 </a>
 
+However, as we are trying to translate them into filipino, those technical and other words that has unconfortable sounding when you read them in Filipino that's why some of them are left untranslated.
+
 ## Achievements
 This human currently contributed on translation projects. You may look at these repository projects for details:
 

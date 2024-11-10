@@ -104,3 +104,24 @@ All versions of Windows OS except for Win11
 2. This human can do programming in C++
 3. This human can do Blender modeling in basic level
 4. This human can do audio mastering and development in intermediate level
+
+## Sponsor this person
+If you appreciate this person's work including his translation projects, you may sponsor through cryptocurrencies below:
+
+**Bitcoin** 
+bc1qufrc2qwangrkrldeaxx86we2n9jwsastg7frwm
+
+**Etherium** 
+0xB7f5D79C2aD6A4580C52E6fa86730ecc3E92B975
+
+**Etherium on MetaMask**
+0xb55673b6C4Fc6a271fD88B81Cbb153d15F9A7ee5
+
+**Polygon**
+0xB7f5D79C2aD6A4580C52E6fa86730ecc3E92B975
+
+**Solana**
+CpmNfn2cgyyFUR4fsFJpxNFY3R4cCkBNzVh2ngkDeAHh
+
+**Solflare Solana**
+EVJaVrW7HHnNnqTupaNkipZ8CJt3j3DnwCnQ3d1Re2GU

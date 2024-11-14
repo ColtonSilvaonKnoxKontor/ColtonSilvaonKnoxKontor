@@ -125,3 +125,15 @@ If you appreciate this person's work including his translation projects, you may
 
 **Solflare Solana**
 `EVJaVrW7HHnNnqTupaNkipZ8CJt3j3DnwCnQ3d1Re2GU`
+# Social Accounts
+You may contact this person through these links below.
+
+**Email**
+
+Underworld (DarkWeb) | coltonsilva74@underworld.dog
+
+(Link: `http://fozdean5ayswi6jtseg2fgyysqt3dskoosmoc6gnqia4dxwxiuvg3oad.onion/`)
+
+Google Mail | coltonsilva74@gmail.com
+
+Yahoo! | coltonsilva74@yahoo.com

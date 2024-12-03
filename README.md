@@ -7,7 +7,7 @@ This human is a Linux builder (**make** command addict) and software translator 
 </a>
 
 ## Filipino translation status
-This is an excerpt of chart showing the translation progress of OpenWRT and LuCI interface translated from English into Filipino by me compared to nearby SouthEast Asian languages.
+This is an excerpt of chart showing the translation progress of OpenWRT and LuCI interface translated from English into Filipino by this human compared to nearby SouthEast Asian languages.
 <br />
 <a href="https://hosted.weblate.org/engage/openwrt/-/en_devel/">
 <img src="https://hosted.weblate.org/widget/openwrt/-/en_devel/multi-auto.svg" alt="Translation status" />
@@ -26,6 +26,32 @@ This is an excerpt of chart showing the translation progress of OpenWRT and LuCI
 </a>
 
 However, as we are trying to translate them into filipino, those technical and other words that has uncomfortable sounding when you read them in Filipino that's why some of them are left untranslated.
+
+## OpenWRT & LuCI interface progress
+These are the progresses of string components that are translated, or currently translating by this human.
+
+**Firmware Wizard** 
+
+<a href="https://hosted.weblate.org/engage/openwrt/-/fil/">
+<img src="https://hosted.weblate.org/widget/openwrt/firmware-wizard/fil/287x66-black.png" alt="Translation status" />
+</a>
+
+**vnstat2**
+
+<a href="https://hosted.weblate.org/engage/openwrt/-/fil/">
+<img src="https://hosted.weblate.org/widget/openwrt/luciapplicationsvnstat2/fil/287x66-black.png" alt="Translation status" />
+</a>
+
+**luci-base**
+
+<a href="https://hosted.weblate.org/engage/openwrt/-/fil/">
+<img src="https://hosted.weblate.org/widget/openwrt/luci/fil/287x66-black.png" alt="Translation status" />
+</a>
+
+**Firmware Wizard** was entirely translated by [@searinminecraft](https://hosted.weblate.org/user/searinminecraft/#contributed) before this human takes over on translation project, though **vnstat2** and **luci-base** are partially translated by this translator)
+
+Some of the strings are left untranslated to preserve the original strings that contains abbreviations of technical terms which pinoys mostly knows or familiar with english technical terms like IPv4, BSSID, MAC, etc.
+
 
 ## Achievements
 This human currently contributed on translation projects. You may look at these repository projects for details:

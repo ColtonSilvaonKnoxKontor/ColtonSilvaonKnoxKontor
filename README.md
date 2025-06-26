@@ -69,9 +69,10 @@ This human currently contributed on translation projects. You may look at these 
 **OpenWRT's LuCI Interface** | https://github.com/openwrt/luci
 
 ## Software built
-This human also tried to built his own Linux from Scratch and remixes. Look at this repository for detail:
+This human also tried to built his own Linux from Scratch and remixes. He made his own Ransomware for Debian/Ubuntu based distribution. Look at these repository for detail:
 
 **SilSys Development Kit** | https://github.com/ColtonSilvaonKnoxKontor/SilSys-Development-Kit
+**Enscrambled (Ransomware version)** | https://github.com/ColtonSilvaonKnoxKontor/Enscrambled/tree/ransomware
 
 ## Tried Operating System
 This human also installed and tried OS to his system. Here are the lists:

@@ -68,6 +68,13 @@ This human currently contributed on translation projects. You may look at these 
 
 **OpenWRT's LuCI Interface** | https://github.com/openwrt/luci
 
+## Reverse-Engineering and Exploitation
+This human also actively engaging in (maybe illegal) hacking Piso WiFi vending machines. He investigates the vulnerabilities and weaknesses, and he crafts special scripts and codes to abuse them. To see them, look at them:
+
+- [LPB Piso WiFi](https://github.com/ColtonSilvaonKnoxKontor/SSH-on-LPB-Piso-Wifi)
+
+- [PisoFi](https://github.com/ColtonSilvaonKnoxKontor/PisoFi-Vulnerability-and-Exploits)
+
 ## Software built
 This human also tried to built his own Linux from Scratch and remixes. He made his own Ransomware for Debian/Ubuntu based distribution. Look at these repository for detail:
 

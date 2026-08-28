@@ -2,9 +2,13 @@
 
 These are the collections of webites made by this human:
 
-[Public Fun Service](http://silsys.atwebpages.com/)
+[Public Fun Service, DEFUNCT AND USELESS](http://silsys.atwebpages.com/)
 
-[OPL Game Compatibility List](https://nishinix.pages.dev/) (also live in Google or any Search Engines)
+[SilvaSystem's Official Website](https://silvasystems.online)
+
+[Unofficial Server for Idol Shopping Network by Raffy Tulfo and his Family](https://isn.silvasystems.online)
+
+[OPL Game Compatibility List](https://nishinix.pages.dev/)
 
 ## Who is this person?
 This human is a Linux builder (**make** command addict) and software translator for Filipino Language.
@@ -88,6 +92,7 @@ This human also installed and tried OS to his system. Here are the lists:
 **_PlayStation 2_**:
 
 1. BlackRhino OS
+2. Linux Kernel compiled in raw ELF
 
 **_Routers_**
 1. OpenWRT
@@ -103,6 +108,7 @@ This human also installed and tried OS to his system. Here are the lists:
 3. Debian
 4. Kali Linux
 5. Parrot OS
+6. DietPi for PC
 
 **_Fedora-based_**
 1. Fedora
@@ -140,7 +146,7 @@ This human also installed and tried OS to his system. Here are the lists:
 
 **_Windows_**
 
-All versions of Windows OS except for Win11
+All versions of Windows OS except for Windows Server
 
 ## Progress
 1. This human can read and understand Japanese in JLPT2 level and Russian in basic level. He also plans to learn Turkish, Simplified Chinese and Hindi.
